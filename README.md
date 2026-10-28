@@ -6,7 +6,7 @@ Play against a bot, practice in Free Play, or connect two calculators for local 
 
 ## Install
 
-1. Download **RocketCE-v1.0.0.zip** from [Releases](../../releases/latest) and extract it.
+1. Download **RocketCE-v1.0.1.zip** from [the project download](RocketCE-v1.0.1.zip) and extract it.
 2. Send `ROCKETCE.8xp`, `RCETITLE.8xv`, `RCEMENU.8xv` and `clibs.8xg` to your calculator using TI Connect CE. Keep the artwork AppVars and libraries archived.
 3. Open **ROCKETCE** from Cesium.
 
@@ -20,7 +20,7 @@ Follow arTIfiCE's instructions for your calculator and OS, then install Cesium t
 ## Controls
 
 - **Arrows:** drive / steer; rotate in the air.
-- **2nd:** jump; release and press again to double jump. Add arrows to flip.
+- **2nd:** tap for a low jump; hold briefly for extra height. Release and press again to double jump. Add arrows to flip.
 - **ALPHA:** boost.
 - **MODE:** powerslide; hold with Left/Right in the air to roll.
 - **GRAPH:** brake. **TRACE:** change camera. **ZOOM:** change detail.
