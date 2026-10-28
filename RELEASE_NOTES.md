@@ -1,6 +1,6 @@
 # RocketCE v1.0.1
 
-- Lower tap jumps for easier ball hits. Hold 2nd for more height.
+- Lower tap jumps for easier ball hits. Hold 2nd for extra height to set up pinches.
 - Faster directional flips that finish during the lower jump.
 
 Replace **ROCKETCE.8xp** on both calculators for multiplayer. Existing artwork and libraries still work.
